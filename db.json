@@ -1,0 +1,118 @@
+{
+  "value": {
+    "pageIndex": 1,
+    "totalOfPages": 1,
+    "pageSize": 20,
+    "numberOfItems": 20,
+    "hasPrevious": false,
+    "hasNext": false,
+    "items": [
+      {
+        "id": 1,
+        "name": "Nguyễn Văn A",
+        "description": "Người dùng thích đọc sách"
+      },
+      {
+        "id": 2,
+        "name": "Trần Thị B",
+        "description": "Người dùng thích du lịch"
+      },
+      {
+        "id": 3,
+        "name": "Lê Văn C",
+        "description": "Người dùng thích thể thao"
+      },
+      {
+        "id": 4,
+        "name": "Phạm Thị D",
+        "description": "Người dùng thích ẩm thực"
+      },
+      {
+        "id": 5,
+        "name": "Hoàng Văn E",
+        "description": "Người dùng thích công nghệ"
+      },
+      {
+        "id": 6,
+        "name": "Đinh Thị F",
+        "description": "Người dùng thích âm nhạc"
+      },
+      {
+        "id": 7,
+        "name": "Bùi Văn G",
+        "description": "Người dùng thích hội họa"
+      },
+      {
+        "id": 8,
+        "name": "Ngô Thị H",
+        "description": "Người dùng thích phim ảnh"
+      },
+      {
+        "id": 9,
+        "name": "Võ Văn I",
+        "description": "Người dùng thích viết lách"
+      },
+      {
+        "id": 10,
+        "name": "Tạ Thị K",
+        "description": "Người dùng thích thêu thùa"
+      },
+      {
+        "id": 11,
+        "name": "Phan Văn L",
+        "description": "Người dùng thích nhiếp ảnh"
+      },
+      {
+        "id": 12,
+        "name": "Trương Thị M",
+        "description": "Người dùng thích nấu ăn"
+      },
+      {
+        "id": 13,
+        "name": "Lý Văn N",
+        "description": "Người dùng thích làm vườn"
+      },
+      {
+        "id": 14,
+        "name": "Dương Thị O",
+        "description": "Người dùng thích leo núi"
+      },
+      {
+        "id": 15,
+        "name": "Châu Văn P",
+        "description": "Người dùng thích đi xe đạp"
+      },
+      {
+        "id": 16,
+        "name": "Vũ Thị Q",
+        "description": "Người dùng thích yoga"
+      },
+      {
+        "id": 17,
+        "name": "Lâm Văn R",
+        "description": "Người dùng thích chạy bộ"
+      },
+      {
+        "id": 18,
+        "name": "Mai Thị S",
+        "description": "Người dùng thích nhảy múa"
+      },
+      {
+        "id": 19,
+        "name": "Hà Văn T",
+        "description": "Người dùng thích câu cá"
+      },
+      {
+        "id": 20,
+        "name": "Khánh Thị U",
+        "description": "Người dùng thích thời trang"
+      }
+    ]
+  },
+  "isSuccess": true,
+  "isFailure": false,
+  "error": {
+    "code": "",
+    "message": ""
+  }
+}
